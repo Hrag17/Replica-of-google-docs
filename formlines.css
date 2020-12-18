@@ -1,0 +1,56 @@
+.frame{
+
+  width: 1500px;
+
+  height: 150px;
+
+  border: 2px solid #C099DD;
+
+  box-sizing: border-box;
+  background-color: #C099DD;
+
+                position: absolute;
+
+  left: 0px;
+
+  margin-top:;
+ 
+}
+.framewhite{
+
+  width: 700px;
+
+  height: 1200px;
+
+  border: 2px solid#d3d3d3;
+
+  box-sizing: border-box;
+  background-color:white;
+
+                position: absolute;
+
+  left: 300px;
+
+  margin-top:100;
+}
+
+
+
+
+
+div.title {
+  position: absolute;
+  width: 400px;
+  height: 200px;
+   left: 370px;
+ margin-top:130px;
+}
+
+div.titlemini {
+  position: absolute;
+  width: 400px;
+  height: 200px;
+   left:0px;
+ margin-top:-60px;
+   color: gray;
+}
